@@ -1,0 +1,3 @@
+[submodule "server_stream_rpc/proto"]
+	path = server_stream_rpc/proto
+	url = git@github.com:Modestying/proto.git
